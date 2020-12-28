@@ -1,3 +1,4 @@
+# Printa variabeln name och name_2 med olika stripping och formatering
 name = "Nina"
 print(f"Hello, {name}! Would you like to learn some python?")
 name_2 = "nina pentti"
