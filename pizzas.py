@@ -1,4 +1,7 @@
 pizzas = ['vesuvio', 'capricciosa', 'buzzola']
+toppings = ['mushrooms','ham','cheese','meat sauce']
+
+
 
 for pizza in pizzas:
 	print(f"I really like a good {pizza.title()}")
