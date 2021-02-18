@@ -1,0 +1,6 @@
+Med Python kan du räkna ut saker
+Med Python kan du ordna information i listor
+Med Python kan du återanvända kod med funktioner
+Med Python kan du söka efter saker
+Med Python kan du skriva till och läsa från filer
+Med Python kan du ...
